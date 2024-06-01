@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Sathiyabalan
--About Me
 🎓 I'm currently pursuing a degree in Software Engineering.
 👀 I'm passionate about problem-solving and coding.
 🌱 I'm constantly learning and expanding my skill set.
