@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Sathiyabalan
-- 👀 I’m interested in problem solving,coding
-- 🌱 I’m currently a software engineering undergraduate
-- 💞️ I’m looking to collaborate on solving IT real world problems
-- 
+-About Me
+🎓 I'm currently pursuing a degree in Software Engineering.
+👀 I'm passionate about problem-solving and coding.
+🌱 I'm constantly learning and expanding my skill set.
+
+  
 
 
 <!---
